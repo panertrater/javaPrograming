@@ -6,11 +6,11 @@ public class week5 {
 		int a = 3;
 		int b = 5;
 		
-		if(a > b) {
+		if(a < b) {
 			System.out.println("참입니다");
 			
 		}else {
-			System.out.println("휴강입니다");
+			System.out.println("거짓입니다");
 		}
 		
 	}

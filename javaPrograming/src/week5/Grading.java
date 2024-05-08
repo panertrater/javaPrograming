@@ -1,6 +1,6 @@
 package week5;
 
-import java.util.*;
+import java.util.Scanner;
 
 public class Grading {
 	public static void main(String args[]) {
@@ -19,7 +19,8 @@ public class Grading {
 			grade = "D";
 		else 
 			grade = "F";
-
+		
+		System.out.println("학점은 "+grade+" 입니다");
 		scanner.close();
 	}
 }

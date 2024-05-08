@@ -17,7 +17,7 @@ public class GrandingSwitch {
 		case 8:// 80점부터 90점까지 B
 			grade = "B";
 			break;
-		case 7://7080
+		case 7://70 80
 			grade = "C";
 			break;
 		case 6://60 70
